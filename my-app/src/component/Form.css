@@ -1,0 +1,33 @@
+.bg-secondary {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+  font-weight: 100;
+  color: rgb(237, 235, 235);
+  font-family: "Abril Fatface", cursive;
+  text-shadow: 2px 2px 8px #3f3f3e;
+}
+
+.blurbg {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+body{
+    background-image: url("../images/work1.jpg");
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: cover;
+  }

@@ -1,0 +1,16 @@
+user_id,user_name,dob,gender,email,quali,phn,pwd,work_ex
+1,abc,01-03-2001,M,abc@gmail.com,grad,8787970345,abc123,0
+2,abc,01-02-2000,M,abc@gmail.com,grad,8787970346,abc124,1
+3,abc,02-02-2000,M,abc@gmail.com,grad,8787970347,abc125,2
+4,abc,03-02-2000,M,abc@gmail.com,grad,8787970348,abc126,3
+5,def,04-02-2000,M,def@gmail.com,grad,8787970349,abc127,4
+6,def,05-02-2000,M,def@gmail.com,grad,8787970350,abc128,5
+7,def,06-02-2000,M,def@gmail.com,post grad,8787970351,abc129,6
+8,def,07-02-2000,M,def@gmail.com,post grad,8787970352,abc130,7
+9,def,08-02-2000,M,def@gmail.com,post grad,8787970353,abc131,8
+10,xyz,09-02-2000,M,xyz@gmail.com,post grad,8787970354,abc132,9
+11,xyz,10-02-2000,F,xyz@gmail.com,post grad,8787970355,abc133,10
+12,xyz,11-02-2000,F,xyz@gmail.com,highschool,8787970356,abc134,11
+13,xyz,12-02-2000,F,xyz@gmail.com,highschool,8787970357,abc135,12
+14,xyz,13-02-2000,F,xyz@gmail.com,highschool,8787970358,abc136,13
+15,xyz,14-02-2000,F,xyz@gmail.com,highschool,8787970359,abc137,14
